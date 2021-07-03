@@ -1,0 +1,2 @@
+# hina
+Just another repository
